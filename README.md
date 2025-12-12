@@ -4,9 +4,9 @@
 <h3 aligin="left">About me:</h3>
 <p>I am an undergraduate student at IIT Roorkee. I play with Rag agents and security stuff. Lets connect for discussion on everything related to ai or security
 
-- Building an end-to-end product that generates AI-powered UGC advertisements without requiring users to write prompts at [QilinAI](https://qa.qilin.co.in)
+- Building an end-to-end product that generates AI-powered UGC advertisements without requiring users to write prompts at **[QilinAI](https://qa.qilin.co.in)**
 
--  Cloud and system security Intern at [CloudDefense.AI](https://www.clouddefense.ai/)
+-  Cloud and system security Intern at **[CloudDefense.AI](https://www.clouddefense.ai/)**
 
 -  I am a CTF player with team **[InfoSecIITR](https://ctftime.org/team/16691)**
   
